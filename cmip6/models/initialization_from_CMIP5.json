@@ -1,5 +1,8 @@
 {
     "kiost-esm": {
+        "toplevel": {
+            "initializedFrom": ""
+        }, 
         "atmos": {
             "initializedFrom": ""
         }, 
@@ -19,9 +22,6 @@
             "initializedFrom": ""
         }, 
         "seaice": {
-            "initializedFrom": ""
-        }, 
-        "toplevel": {
             "initializedFrom": ""
         }
     }

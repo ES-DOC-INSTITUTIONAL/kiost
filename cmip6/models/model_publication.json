@@ -1,0 +1,28 @@
+{
+    "kiost-esm": {
+        "toplevel": {
+            "publish": "off"
+        }, 
+        "atmos": {
+            "publish": "off"
+        }, 
+        "atmoschem": {
+            "publish": "off"
+        }, 
+        "land": {
+            "publish": "off"
+        }, 
+        "landice": {
+            "publish": "off"
+        }, 
+        "ocean": {
+            "publish": "off"
+        }, 
+        "ocnbgchem": {
+            "publish": "off"
+        }, 
+        "seaice": {
+            "publish": "off"
+        }
+    }
+}
